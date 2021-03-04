@@ -1,7 +1,7 @@
 # Developer events
 Repo to collect dates/url's of developer events of interest
 
-#### Event calendars
+#### Event calendars:
 [Events calendar 2021](https://github.com/MakeAndDevelop/developer_events/blob/master/events/2021.md)
 
 #### Sources:
