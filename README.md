@@ -6,7 +6,7 @@ Repo to collect dates/url's of developer events of interest
 
 #### Sources:
 Events are announced on sites of tech companies, blogs or other channels, we call those event sources.
-- [Source list page](https://github.com/MakeAndDevelop/developer_events/blob/master/events/sources.md)
+- [Source list page](https://github.com/MakeAndDevelop/developer_events/blob/master/sources.md)
 
 ## To contribute
 Where are happy to receive contributions, to keep everything organized please take the following points in consideration.
